@@ -1,0 +1,6 @@
+[
+  "tests/test_app.py::test_dashboard_route_works",
+  "tests/test_app.py::test_graph_includes_and_assigns_color_to_unconflicted_subject",
+  "tests/test_app.py::test_graph_renders_all_subjects_and_assigns_isolated_subject",
+  "tests/test_app.py::test_greedy_coloring_assigns_unique_colors_to_conflicts"
+]
